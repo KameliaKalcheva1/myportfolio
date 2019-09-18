@@ -11,4 +11,9 @@ Theme Name:   Portfolio
  Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
  Text Domain:  oceanwpchild
  */
- 
+ h1{
+     font-family: 'DM Serif Display', serif !important;
+ }
+ h2 {
+     font-family: 'Manjari', sans-serif !important;
+ }
